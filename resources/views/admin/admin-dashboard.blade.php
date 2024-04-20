@@ -3,3 +3,5 @@
     @csrf
     <button type="submit">Logout</button>
 </form>
+@include('layout.header')
+@include('layout.sidebar')
